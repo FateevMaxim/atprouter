@@ -19,3 +19,11 @@ Route::get('/about', [MainController::class, 'about']);
 Route::get('/products/{id}', [MainController::class,'showProducts']);
 Route::get('/singleproduct/{id}', [ProductsController::class,'index']);
 
+Route::get('/clear', function () {
+    Artisan::call('cache:clear');
+    Artisan::call('config:cache');
+    Artisan::call('view:clear');
+    Artisan::call('route:clear');
+
+    return "Кэш очищен.";
+});
