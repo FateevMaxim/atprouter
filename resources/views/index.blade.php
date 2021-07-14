@@ -127,7 +127,7 @@
       </div>
       <div class="row">
         <div class="col-md-6 px-0">
-          <div class="img_container mr-sm-0">
+          <div class="img_container mr-lg-0">
             <div class="img-box">
               <img src="images/about-img.png" alt="" />
             </div>
