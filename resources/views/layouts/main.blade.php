@@ -8,8 +8,8 @@
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <!-- Site Metas -->
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
+    <meta name="keywords" content="Модемы, маршрутизаторы, коммутаторы, сетевые шлюзы, teltomica" />
+    <meta name="description" content="ATP Router - Модемы, маршрутизаторы, коммутаторы, сетевые шлюзы от компании Teltonica Networks" />
     <meta name="author" content="" />
 
     <title>ATP Router - @yield('title')</title>
