@@ -269,7 +269,8 @@
             <ul>
               <li><b>Адрес:</b> г. Алматы, пр. Назарбаева д.103 офис 809</li>
               <li><b>Индекс:</b> 050000</li>
-              <li><b>Телефон: </b> <button type="button" class="btn btn-primary"><a href="tel:+77272670500" class="text-white">+7 (727) 267 05 00</a></button></li>
+              <li><b>Мобильный: </b> <button type="button" class="btn btn-primary"><a href="tel:+77770134379" class="text-white">+7 777 013 4379</a></button></li>
+              <li><b>Телефон: </b><a href="tel:+77272670500">+7 (727) 267 05 00</a></li>
             </ul>
           </div>
           <div class="col-md-6">

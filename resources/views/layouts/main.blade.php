@@ -42,10 +42,10 @@
               г. Алматы, пр. Назарбаева д.103 офис 809
             </span>
                 </a>
-                <a href="tel:+77272670500" class="contact_link2">
+                <a href="tel:+77770134379" class="contact_link2">
                     <img src="{{ asset('/images/call.png') }}" alt="" />
                     <span>
-              Телефон : +7 (727) 267 05 00
+              Телефон : +7 777 013 4379
             </span>
                 </a>
                 <a href="" class="contact_link3">
@@ -87,6 +87,7 @@
     </header>
     <!-- end header section -->
    @yield('content')
+
 <!-- footer section -->
 <footer class="container-fluid footer_section">
     <p>
