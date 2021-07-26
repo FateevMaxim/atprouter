@@ -28,6 +28,16 @@
     <link href="{{ asset('/css/style.css') }}" rel="stylesheet" />
     <!-- responsive style -->
     <link href="{{ asset('/css/responsive.css') }}" rel="stylesheet" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203209121-1">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-203209121-1');
+    </script>
 </head>
 
 <body>
