@@ -11,7 +11,7 @@
     <meta name="keywords" content="Модемы, маршрутизаторы, коммутаторы, сетевые шлюзы, teltomica" />
     <meta name="description" content="ATP Router - Модемы, маршрутизаторы, коммутаторы, сетевые шлюзы от компании Teltonica Networks" />
     <meta name="author" content="" />
-
+    <meta name="yandex-verification" content="8daec767eaccb870" />
     <title>ATP Router - @yield('title')</title>
 
     <!-- bootstrap core css -->
